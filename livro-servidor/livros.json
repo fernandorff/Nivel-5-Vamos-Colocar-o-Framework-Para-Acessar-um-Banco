@@ -1,0 +1,79 @@
+[
+  {
+    "_id": { "$oid": "6173e27c14de3e0c8fae2b55" },
+    "titulo": "The Hitchhiker's Guide to the Galaxy",
+    "codEditora": 42,
+    "resumo": "The story follows the misadventures of the last surviving human, Arthur Dent, and his alien friend, Ford Prefect, as they travel through space and time.",
+    "autores": ["Douglas Adams"]
+  },
+  {
+    "_id": { "$oid": "6173e2be14de3e0c8fae2b56" },
+    "titulo": "To Kill a Mockingbird",
+    "codEditora": 1,
+    "resumo": "The story takes place during three years of the Great Depression in the fictional Maycomb, Alabama.",
+    "autores": ["Harper Lee"]
+  },
+  {
+    "_id": { "$oid": "6173e2eb14de3e0c8fae2b57" },
+    "titulo": "The Catcher in the Rye",
+    "codEditora": 2,
+    "resumo": "The novel details two days in the life of 16-year-old Holden Caulfield after he has been expelled from prep school.",
+    "autores": ["J.D. Salinger"]
+  },
+  {
+    "_id": { "$oid": "6173e30e14de3e0c8fae2b58" },
+    "titulo": "1984",
+    "codEditora": 3,
+    "resumo": "The novel is set in a dystopian future where critical thought is suppressed by a totalitarian regime.",
+    "autores": ["George Orwell"]
+  },
+  {
+    "_id": { "$oid": "6173e32f14de3e0c8fae2b59" },
+    "titulo": "The Great Gatsby",
+    "codEditora": 4,
+    "resumo": "The novel chronicles the events of 1922 in the fictional Long Island village of West Egg.",
+    "autores": ["F. Scott Fitzgerald"]
+  },
+  {
+    "_id": { "$oid": "6173e34e14de3e0c8fae2b5a" },
+    "titulo": "Pride and Prejudice",
+    "codEditora": 5,
+    "resumo": "The novel follows the story of Elizabeth Bennet and her four sisters as they navigate social class, love, and marriage in Georgian-era England.",
+    "autores": ["Jane Austen"]
+  },
+  {
+    "_id": { "$oid": "6173e37114de3e0c8fae2b5b" },
+    "titulo": "One Hundred Years of Solitude",
+    "codEditora": 6,
+    "resumo": "The novel follows seven generations of the Buendía family in the fictional town of Macondo, Colombia, and explores themes of history, memory, and solitude.",
+    "autores": ["Gabriel García Márquez"]
+  },
+  {
+    "_id": { "$oid": "6173e39114de3e0c8fae2b5c" },
+    "titulo": "The Lord of the Rings",
+    "codEditora": 7,
+    "resumo": "The novel tells the story of hobbit Frodo Baggins as he embarks on a quest to destroy the One Ring, anancient artifact created by the dark lord Sauron.",
+    "autores": ["J.R.R. Tolkien"]
+  },
+  {
+    "_id": { "$oid": "6173e3b514de3e0c8fae2b5d" },
+    "titulo": "The Hunger Games",
+    "codEditora": 8,
+    "resumo": "The novel takes place in a dystopian future where the Capitol selects a boy and a girl from each of the twelve districts to fight to the death in the annual Hunger Games.",
+    "autores": ["Suzanne Collins"]
+  },
+  {
+    "_id": { "$oid": "6173e3d514de3e0c8fae2b5e" },
+    "titulo": "Harry Potter and the Philosopher's Stone",
+    "codEditora": 9,
+    "resumo": "The novel follows the life of young orphan Harry Potter who discovers on his eleventh birthday that he is a wizard.",
+    "autores": ["J.K. Rowling"]
+  },
+  {
+    "_id": { "$oid": "6173e3f514de3e0c8fae2b5f" },
+    "titulo": "The Da Vinci Code",
+    "codEditora": 10,
+    "resumo": "The novel follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris and discover a conspiracy involving the Holy Grail.",
+    "autores": ["Dan Brown"]
+  }
+]
